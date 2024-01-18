@@ -4,8 +4,8 @@ Three different ways of managing react forms examples w/error managing (state (w
 
 ## Login
 
-<!-- ![Quiz-1](https://github.com/davidtheweb-dev/quiz-game/assets/71373942/c79a2aaf-7a36-4c29-b28e-8e319483a80d) -->
+![login](https://github.com/davidtheweb-dev/react-forms/assets/71373942/5480ad26-c5d2-4221-a8aa-e8c2d5660b8e)
 
 ## Signup
 
-<!-- ![Quiz-2](https://github.com/davidtheweb-dev/quiz-game/assets/71373942/ad86060d-3487-412b-aa39-5bb6f2ff739d) -->
+![signup](https://github.com/davidtheweb-dev/react-forms/assets/71373942/83dee2bc-d658-4a86-b179-a443b587a183)
